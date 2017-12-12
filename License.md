@@ -1,3 +1,5 @@
+The 3-Clause BSD License
+
 Copyright 2017 Gregory Machin
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
