@@ -1,7 +1,7 @@
 $ExcludeFilter = "*.LOCK","*.config","*.bat","*.dat"
 $IncludeFilter = "*.exe"
 [DateTime]$LastWritetimeUpper = 'December 30, 2017'
-[DateTime]$LastWritetimelower = 'December 1, 2017'
+[DateTime]$LastWritetimelower = 'December 10, 2017'
 $FileSource = "C:\Users\clubb\AppData\Local\Temp"
 #$FilesList = Get-ChildItem -Path c:\temp -Recurse -Exclude $ExcludeFilter  
 #$FilesList = Get-ChildItem -Path c:\temp -Recurse -Include $IncludeFilter 
